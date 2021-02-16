@@ -145,7 +145,7 @@
     }
     .u-section-1 .u-text-2 {
         margin-right: 20px;
-        margin-left: 76px;
+        margin-left: 48px;
     }
     .u-section-1 .u-btn-1 {
         width: 94px;
@@ -292,6 +292,7 @@
         min-height: 410px;
     }
     .u-section-2 .u-text-3 {
+        font-size: 1.25rem;
         margin-left: 6px;
         margin-right: 6px;
     }
@@ -330,6 +331,7 @@
 }
 
 .u-section-3 .u-text-2 {
+    font-size: 1.875rem;
     margin: -7px 20px 40px 0;
 }
 
@@ -410,6 +412,7 @@
         width: 34px;
     }
     .u-section-3 .u-text-2 {
+        font-size: 1.25rem;
         margin-right: -8px;
     }
 }
@@ -641,7 +644,7 @@
         width: 38px;
     }
     .u-section-4 .u-layout-cell-1 {
-        min-height: 100px;
+        min-height: 442px;
     }
     .u-section-4 .u-text-2 {
         margin-left: 13px;
@@ -652,7 +655,7 @@
         margin-right: 13px;
     }
     .u-section-4 .u-layout-cell-2 {
-        min-height: 100px;
+        min-height: 410px;
     }
     .u-section-4 .u-text-4 {
         margin-left: 13px;
@@ -663,7 +666,7 @@
         margin-right: 13px;
     }
     .u-section-4 .u-layout-cell-3 {
-        min-height: 100px;
+        min-height: 442px;
     }
     .u-section-4 .u-text-6 {
         margin-left: 13px;
@@ -674,7 +677,7 @@
         margin-right: 13px;
     }
     .u-section-4 .u-layout-cell-4 {
-        min-height: 100px;
+        min-height: 403px;
     }
     .u-section-4 .u-image-4 {
         height: 242px;
@@ -711,6 +714,9 @@
         margin-left: 9px;
         margin-right: 9px;
     }
+    .u-section-4 .u-layout-cell-3 {
+        min-height: 474px;
+    }
     .u-section-4 .u-text-6 {
         margin-left: 9px;
         margin-right: 9px;
@@ -718,6 +724,9 @@
     .u-section-4 .u-text-7 {
         margin-left: 9px;
         margin-right: 9px;
+    }
+    .u-section-4 .u-layout-cell-4 {
+        min-height: 738px;
     }
     .u-section-4 .u-image-4 {
         height: 545px;
@@ -767,6 +776,9 @@
     .u-section-4 .u-text-7 {
         margin-left: 6px;
         margin-right: 6px;
+    }
+    .u-section-4 .u-layout-cell-4 {
+        min-height: 561px;
     }
     .u-section-4 .u-image-4 {
         height: 343px;
